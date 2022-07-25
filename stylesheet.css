@@ -1,0 +1,17 @@
+.body{
+    width: 954px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.rightcolumn{
+    padding-right: 22px;
+} 
+.leftcolumn{
+    padding-left: 22px;
+}
